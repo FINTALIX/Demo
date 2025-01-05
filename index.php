@@ -2,7 +2,11 @@
 $info = array(
     array("BERNARDO", "Project Manager", "Go FINTALIX!"),
     array("REYES", "Full Stock Developer", "Go FINTALIX!"),
+<<<<<<< HEAD
     array("LANTIN", "Data Administrator", "Go Guys!"),
+=======
+    array("BATISTIL", "Full Stack Developer", "Hello World!"),
+>>>>>>> 37e2a435d0a925af1600391a04be332b8d0a39d8
     array("DOE", "CEO", "Loren Ipsum")
 );
 ?>
