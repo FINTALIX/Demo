@@ -2,6 +2,7 @@
 $info = array(
     array("BERNARDO", "Project Manager", "Go FINTALIX!"),
     array("REYES", "Full Stock Developer", "Go FINTALIX!"),
+    array("BATISTIL", "Full Stack Developer", "Hello World!"),
     array("DOE", "CEO", "Loren Ipsum")
 );
 ?>
