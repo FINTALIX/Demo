@@ -1,7 +1,12 @@
 <?php
 $info = array(
     array("BERNARDO", "Project Manager", "Go FINTALIX!"),
+<<<<<<< HEAD
     array("LANTIN", "Data Administrator", "Go Guys!")
+=======
+    array("REYES", "Full Stock Developer", "Go FINTALIX!"),
+    array("DOE", "CEO", "Loren Ipsum")
+>>>>>>> bc34e4f2c0551644fd8a3a460ca3a5ae0e8c7500
 );
 ?>
 <!doctype html>
