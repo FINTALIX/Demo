@@ -1,6 +1,7 @@
 <?php
 $info = array(
-    array("BERNARDO", "Project Manager", "Go FINTALIX!")
+    array("BERNARDO", "Project Manager", "Go FINTALIX!"),
+    array("LANTIN", "Data Administrator", "Go Guys!")
 );
 ?>
 <!doctype html>
