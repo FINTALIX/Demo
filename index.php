@@ -1,8 +1,7 @@
 <?php
 $info = array(
     array("BERNARDO", "Project Manager", "Go FINTALIX!"),
-    array("REYES", "Full Stock Developer", "Go FINTALIX!")
-    array("BERNARDO", "Project Manager", "Go FINTALIX!"), 
+    array("REYES", "Full Stock Developer", "Go FINTALIX!"),
     array("DOE", "CEO", "Loren Ipsum")
 );
 ?>
