@@ -6,7 +6,8 @@ $info = array(
     array("BATISTIL", "Full Stack Developer", "Hello World!"),
     array("DOE", "CEO", "Loren Ipsum"),
     array("MALABUYO", "UI/UI Designer", "Go FINTALIX!"),
-    array("AIR", "Front End Developer", "Go FINTALIX!")
+    array("AIR", "Front End Developer", "Go FINTALIX!"),
+    array("MIKE", "DATA", "FINTA!")
 );
 ?>
 <!doctype html>
