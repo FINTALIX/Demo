@@ -3,6 +3,7 @@ $info = array(
     array("BERNARDO", "Project Manager", "Go FINTALIX!"),
     array("REYES", "Full Stock Developer", "Go FINTALIX!"),
     array("LANTIN", "Data Administrator", "Go Guys!"),
+    array("LANTIN", "Back End Developer", "Go Guys!"),
     array("BATISTIL", "Full Stack Developer", "Hello World!"),
     array("DOE", "CEO", "Loren Ipsum"),
     array("MALABUYO", "UI/UI Designer", "Go FINTALIX!"),
