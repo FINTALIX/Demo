@@ -8,7 +8,8 @@ $info = array(
     array("DOE", "CEO", "Loren Ipsum"),
     array("MALABUYO", "UI/UI Designer", "Go FINTALIX!"),
     array("AIR", "Front End Developer", "Go FINTALIX!"),
-    array("MIKE", "DATA", "FINTA!")
+    array("MIKE", "DATA", "FINTA!"),
+    array("MIKE", "DATA Admin", "Eyyy!")
 );
 ?>
 <!doctype html>
